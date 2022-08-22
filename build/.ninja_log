@@ -2027,3 +2027,8 @@
 4327	4600	6825997858199072	.bin_timestamp	e25086cc4bfe30d7
 4601	4699	0	esp-idf/esptool_py/CMakeFiles/app_check_size	fe172ef08e6fc7c6
 4701	10387	0	esp-idf/esptool_py/CMakeFiles/app-flash	ee76a4970e80b5e3
+104	353	0	esp-idf/esptool_py/CMakeFiles/app_check_size	fe172ef08e6fc7c6
+99	428	6825992778196725	bootloader-prefix/src/bootloader-stamp/bootloader-build	fa1936240036b1e
+99	428	6825992778196725	bootloader/bootloader.elf	fa1936240036b1e
+99	428	6825992778196725	bootloader/bootloader.bin	fa1936240036b1e
+99	428	6825992778196725	bootloader/bootloader.map	fa1936240036b1e
